@@ -12,14 +12,14 @@
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
-- :school: I'm currently studing in ... Dr. Ambedker Institute of Technology for Handicapped, Kanpur, India
-- 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning ... Vuejs and Python
+- :school: I'm currently studing in ... UTN-FRBA
+- 🔭 I’m currently working on ... UNTDF
+- 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ... Vuejs 
+- 🤔 I’m looking for help with ... React, TypeScript 
 - 💬 Ask me about ... What ever.... :laughing:
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Play PUBG when get bored
+- ⚡ Fun fact: ... Play Valorant or R6Siege when get bored
 <br/>
 
 ### Languages and Tools:
