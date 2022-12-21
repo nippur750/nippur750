@@ -1,7 +1,5 @@
-![About Me](https://raw.githubusercontent.com/martins-rafael/martins-rafael/master/bio.gif)
+![About Me](https://diplomatura.marcosgarcia.com.ar)
 
----
-⭐️ From [martins-rafael](https://github.com/martins-rafael)
 
 - 👋 hola, Soy @nippur750
 
