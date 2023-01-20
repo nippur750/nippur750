@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Valorant-%23000000.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GTA5-%23000000.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PUBG-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
+  <img src="https://img.shields.io/badge/r6%20strike-%23000000.svg?&style=for-the-badge&logo=r6" />
 </div>
 <br>
 
