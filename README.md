@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Any of project
 - 🤔 I’m looking for help with ... React, TypeScript 
 - 💬 Ask me about ... What ever.... :laughing:
-- 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Play Valorant or R6Siege when get bored
 <br/>
 
